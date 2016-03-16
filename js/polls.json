@@ -1,0 +1,906 @@
+[
+    {
+        "PRECINCT": "1A",
+        "POLLING PLACE": "PARKS & REC ARMORY",
+        "POLL ADDRESS": "701 E ASH ST",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.953936,
+        "longitude": -92.32938
+    },
+    {
+        "PRECINCT": "1B",
+        "POLLING PLACE": "PAQUIN TOWERS",
+        "POLL ADDRESS": "1201 PAQUIN ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.947845,
+        "longitude": -92.32348
+    },
+    {
+        "PRECINCT": "1C",
+        "POLLING PLACE": "HEALTH DEPT COL BOONE COUNTY",
+        "POLL ADDRESS": "1005 W. WORLEY ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.960103,
+        "longitude": -92.35349
+    },
+    {
+        "PRECINCT": "1D",
+        "POLLING PLACE": "OAK TOWERS",
+        "POLL ADDRESS": "700 N. GARTH",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "1E",
+        "POLLING PLACE": "PAQUIN TOWERS",
+        "POLL ADDRESS": "1201 PAQUIN ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.947845,
+        "longitude": -92.32348
+    },
+    {
+        "PRECINCT": "1F",
+        "POLLING PLACE": "ARC COLUMBIA RECREATION CENTER",
+        "POLL ADDRESS": "1701 W. ASH ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.957481,
+        "longitude": -92.363025
+    },
+    {
+        "PRECINCT": "1G",
+        "POLLING PLACE": "HEALTH DEPT COL BOONE COUNTY",
+        "POLL ADDRESS": "1005 W. WORLEY ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.960103,
+        "longitude": -92.35349
+    },
+    {
+        "PRECINCT": "1I",
+        "POLLING PLACE": "PAQUIN TOWERS",
+        "POLL ADDRESS": "1201 PAQUIN ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.947845,
+        "longitude": -92.32348
+    },
+    {
+        "PRECINCT": "1J",
+        "POLLING PLACE": "ARC COLUMBIA RECREATION CENTER",
+        "POLL ADDRESS": "1701 W. ASH ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.957481,
+        "longitude": -92.363025
+    },
+    {
+        "PRECINCT": "1K",
+        "POLLING PLACE": "ARC COLUMBIA RECREATION CENTER",
+        "POLL ADDRESS": "1701 W. ASH ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.957481,
+        "longitude": -92.363025
+    },
+    {
+        "PRECINCT": "1L",
+        "POLLING PLACE": "ARC COLUMBIA RECREATION CENTER",
+        "POLL ADDRESS": "1701 W. ASH ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.957481,
+        "longitude": -92.363025
+    },
+    {
+        "PRECINCT": "2A",
+        "POLLING PLACE": "PARKADE BAPTIST CHURCH",
+        "POLL ADDRESS": "2102 N. GARTH AVE.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.974494,
+        "longitude": -92.337787
+    },
+    {
+        "PRECINCT": "2B",
+        "POLLING PLACE": "SUNRISE OPTIMIST CLUB",
+        "POLL ADDRESS": "2410 PARKER ST",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.976294,
+        "longitude": -92.310687
+    },
+    {
+        "PRECINCT": "2C",
+        "POLLING PLACE": "FRIENDSHIP BAPTIST CHURCH",
+        "POLL ADDRESS": "1707 SMILEY LN.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.992926,
+        "longitude": -92.310649
+    },
+    {
+        "PRECINCT": "2D",
+        "POLLING PLACE": "KNIGHTS OF COLUMBUS HALL",
+        "POLL ADDRESS": "2525 N. STADIUM BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.981337,
+        "longitude": -92.374633
+    },
+    {
+        "PRECINCT": "2F",
+        "POLLING PLACE": "GRACE BIBLE CHURCH",
+        "POLL ADDRESS": "601 BLUE RIDGE RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.983945,
+        "longitude": -92.330177
+    },
+    {
+        "PRECINCT": "2G",
+        "POLLING PLACE": "PARKADE BAPTIST CHURCH",
+        "POLL ADDRESS": "2102 N. GARTH AVE.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.974494,
+        "longitude": -92.337787
+    },
+    {
+        "PRECINCT": "2H",
+        "POLLING PLACE": "FRIENDSHIP BAPTIST CHURCH",
+        "POLL ADDRESS": "1707 SMILEY LN.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.992926,
+        "longitude": -92.310649
+    },
+    {
+        "PRECINCT": "2I",
+        "POLLING PLACE": "GRACE BIBLE CHURCH",
+        "POLL ADDRESS": "601 BLUE RIDGE RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.983945,
+        "longitude": -92.330177
+    },
+    {
+        "PRECINCT": "2J",
+        "POLLING PLACE": "SUNRISE OPTIMIST CLUB",
+        "POLL ADDRESS": "2410 PARKER ST",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.976294,
+        "longitude": -92.310687
+    },
+    {
+        "PRECINCT": "2K",
+        "POLLING PLACE": "ARC COLUMBIA RECREATION CENTER",
+        "POLL ADDRESS": "1701 W. ASH ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.957481,
+        "longitude": -92.363025
+    },
+    {
+        "PRECINCT": "2L",
+        "POLLING PLACE": "BOONE COUNTY FIRE PROTECTION HDQTR",
+        "POLL ADDRESS": "2201 I-70 DR NW",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.97042,
+        "longitude": -92.372565
+    },
+    {
+        "PRECINCT": "3A",
+        "POLLING PLACE": "FIRST CHURCH OF THE NAZARENE",
+        "POLL ADDRESS": "2601 BLUE RIDGE RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.985825,
+        "longitude": -92.299069
+    },
+    {
+        "PRECINCT": "3B",
+        "POLLING PLACE": "MEMORIAL BAPTIST CHURCH",
+        "POLL ADDRESS": "1634 PARIS RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.960685,
+        "longitude": -92.313752
+    },
+    {
+        "PRECINCT": "3C",
+        "POLLING PLACE": "HANOVER VILLAGE COMM BLDG",
+        "POLL ADDRESS": "1601 HANOVER BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.967856,
+        "longitude": -92.281964
+    },
+    {
+        "PRECINCT": "3D",
+        "POLLING PLACE": "MEMORIAL BAPTIST CHURCH",
+        "POLL ADDRESS": "1634 PARIS RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.960685,
+        "longitude": -92.313752
+    },
+    {
+        "PRECINCT": "3E",
+        "POLLING PLACE": "AMERICAN LEGION POST #202",
+        "POLL ADDRESS": "3669 LEGION LN.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.94302,
+        "longitude": -92.285497
+    },
+    {
+        "PRECINCT": "3F",
+        "POLLING PLACE": "OPEN HEART BAPTIST CHURCH",
+        "POLL ADDRESS": "2519 N. LAKE OF THE WOODS RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.975236,
+        "longitude": -92.245817
+    },
+    {
+        "PRECINCT": "3G",
+        "POLLING PLACE": "FIRST CHURCH OF THE NAZARENE",
+        "POLL ADDRESS": "2601 BLUE RIDGE RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.985825,
+        "longitude": -92.299069
+    },
+    {
+        "PRECINCT": "3H",
+        "POLLING PLACE": "HOWARD JOHNSON INN COLUMBIA",
+        "POLL ADDRESS": "3100 I-70 DR SE",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.960556,
+        "longitude": -92.289587
+    },
+    {
+        "PRECINCT": "3I",
+        "POLLING PLACE": "HANOVER VILLAGE COMM BLDG",
+        "POLL ADDRESS": "1601 HANOVER BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.967856,
+        "longitude": -92.281964
+    },
+    {
+        "PRECINCT": "3J",
+        "POLLING PLACE": "OPEN HEART BAPTIST CHURCH",
+        "POLL ADDRESS": "2519 N. LAKE OF THE WOODS RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.975236,
+        "longitude": -92.245817
+    },
+    {
+        "PRECINCT": "3L",
+        "POLLING PLACE": "FIRST CHURCH OF THE NAZARENE",
+        "POLL ADDRESS": "2601 BLUE RIDGE RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.985825,
+        "longitude": -92.299069
+    },
+    {
+        "PRECINCT": "3M",
+        "POLLING PLACE": "HOWARD JOHNSON INN COLUMBIA",
+        "POLL ADDRESS": "3100 I-70 DR SE",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.960556,
+        "longitude": -92.289587
+    },
+    {
+        "PRECINCT": "4A",
+        "POLLING PLACE": "FAIRVIEW RD CHURCH OF CHRIST",
+        "POLL ADDRESS": "201 S FAIRVIEW RD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951786,
+        "longitude": -92.381455
+    },
+    {
+        "PRECINCT": "4B",
+        "POLLING PLACE": "COMMUNITY METHODIST CHURCH",
+        "POLL ADDRESS": "3301 W. BROADWAY",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.955901,
+        "longitude": -92.3859
+    },
+    {
+        "PRECINCT": "4C",
+        "POLLING PLACE": "TRINITY PRESBYTERIAN CHURCH",
+        "POLL ADDRESS": "1600 W. ROLLINS RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.945553,
+        "longitude": -92.36318
+    },
+    {
+        "PRECINCT": "4D",
+        "POLLING PLACE": "TRINITY PRESBYTERIAN CHURCH",
+        "POLL ADDRESS": "1600 W. ROLLINS RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.945553,
+        "longitude": -92.36318
+    },
+    {
+        "PRECINCT": "4E",
+        "POLLING PLACE": "ST ANDREWS LUTHERAN CHURCH",
+        "POLL ADDRESS": "914 WEST BLVD. S.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.941933,
+        "longitude": -92.352471
+    },
+    {
+        "PRECINCT": "4F",
+        "POLLING PLACE": "COLUMBIA PUBLIC LIBRARY",
+        "POLL ADDRESS": "100 W. BROADWAY",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951158,
+        "longitude": -92.339814
+    },
+    {
+        "PRECINCT": "4G",
+        "POLLING PLACE": "FAIRVIEW RD COMM OF CHRIST",
+        "POLL ADDRESS": "1111 S. FAIRVIEW RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.940951,
+        "longitude": -92.381976
+    },
+    {
+        "PRECINCT": "4H",
+        "POLLING PLACE": "REJOICE FREE WILL BAPTIST CHURCH",
+        "POLL ADDRESS": "1900 CHAPEL HILL RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.931178,
+        "longitude": -92.368155
+    },
+    {
+        "PRECINCT": "4I",
+        "POLLING PLACE": "COLUMBIA PUBLIC LIBRARY",
+        "POLL ADDRESS": "100 W. BROADWAY",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951158,
+        "longitude": -92.339814
+    },
+    {
+        "PRECINCT": "4J",
+        "POLLING PLACE": "FAIRVIEW RD CHURCH OF CHRIST",
+        "POLL ADDRESS": "201 S FAIRVIEW RD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951786,
+        "longitude": -92.381455
+    },
+    {
+        "PRECINCT": "4K",
+        "POLLING PLACE": "FAIRVIEW METHODIST CHURCH",
+        "POLL ADDRESS": "3200 CHAPEL HILL RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.93397,
+        "longitude": -92.384876
+    },
+    {
+        "PRECINCT": "4L",
+        "POLLING PLACE": "BROADWAY CHRISTIAN CHURCH",
+        "POLL ADDRESS": "2601 W. BROADWAY",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.955383,
+        "longitude": -92.377482
+    },
+    {
+        "PRECINCT": "4M",
+        "POLLING PLACE": "FAIRVIEW METHODIST CHURCH",
+        "POLL ADDRESS": "3200 CHAPEL HILL RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.93397,
+        "longitude": -92.384876
+    },
+    {
+        "PRECINCT": "4N",
+        "POLLING PLACE": "REJOICE FREE WILL BAPTIST CHURCH",
+        "POLL ADDRESS": "1900 CHAPEL HILL RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.931178,
+        "longitude": -92.368155
+    },
+    {
+        "PRECINCT": "5A",
+        "POLLING PLACE": "COLUMBIA PUBLIC LIBRARY",
+        "POLL ADDRESS": "100 W. BROADWAY",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951158,
+        "longitude": -92.339814
+    },
+    {
+        "PRECINCT": "5C",
+        "POLLING PLACE": "CHRISTIAN CHAPEL",
+        "POLL ADDRESS": "3300 S PROVIDENCE RD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.914852,
+        "longitude": -92.333198
+    },
+    {
+        "PRECINCT": "5D",
+        "POLLING PLACE": "PEACHTREE BANQUET CENTER",
+        "POLL ADDRESS": "120 E NIFONG BLVD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.908193,
+        "longitude": -92.337477
+    },
+    {
+        "PRECINCT": "5E",
+        "POLLING PLACE": "WOODCREST CHAPEL",
+        "POLL ADDRESS": "2201 W. NIFONG BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.911165,
+        "longitude": -92.373143
+    },
+    {
+        "PRECINCT": "5F",
+        "POLLING PLACE": "ROCK BRIDGE CHURCH OF GOD",
+        "POLL ADDRESS": "3515 VALENCIA DR",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.912039,
+        "longitude": -92.340385
+    },
+    {
+        "PRECINCT": "5G",
+        "POLLING PLACE": "FORUM BLVD CHRISTIAN CHURCH",
+        "POLL ADDRESS": "3900 FORUM BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.909064,
+        "longitude": -92.352613
+    },
+    {
+        "PRECINCT": "5H",
+        "POLLING PLACE": "ROCK BRIDGE CHRISTIAN CHURCH",
+        "POLL ADDRESS": "301 W. GREEN MEADOWS RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.916344,
+        "longitude": -92.342179
+    },
+    {
+        "PRECINCT": "5I",
+        "POLLING PLACE": "PEACHTREE BANQUET CENTER",
+        "POLL ADDRESS": "120 E NIFONG BLVD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.908193,
+        "longitude": -92.337477
+    },
+    {
+        "PRECINCT": "5J",
+        "POLLING PLACE": "PEACHTREE BANQUET CENTER",
+        "POLL ADDRESS": "120 E NIFONG BLVD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.908193,
+        "longitude": -92.337477
+    },
+    {
+        "PRECINCT": "5K",
+        "POLLING PLACE": "MILL CREEK SCHOOL",
+        "POLL ADDRESS": "2200 W. NIFONG BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.908926,
+        "longitude": -92.373423
+    },
+    {
+        "PRECINCT": "5M",
+        "POLLING PLACE": "FORUM BLVD CHRISTIAN CHURCH",
+        "POLL ADDRESS": "3900 FORUM BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.909064,
+        "longitude": -92.352613
+    },
+    {
+        "PRECINCT": "5N",
+        "POLLING PLACE": "WOODCREST CHAPEL",
+        "POLL ADDRESS": "2201 W. NIFONG BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.911165,
+        "longitude": -92.373143
+    },
+    {
+        "PRECINCT": "5P",
+        "POLLING PLACE": "WOODCREST CHAPEL",
+        "POLL ADDRESS": "2201 W. NIFONG BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.911165,
+        "longitude": -92.373143
+    },
+    {
+        "PRECINCT": "6A",
+        "POLLING PLACE": "CAMPUS LUTHERAN CHURCH",
+        "POLL ADDRESS": "304 S COLLEGE AVE",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.948188,
+        "longitude": -92.321437
+    },
+    {
+        "PRECINCT": "6B",
+        "POLLING PLACE": "CAMPUS LUTHERAN CHURCH",
+        "POLL ADDRESS": "304 S COLLEGE AVE",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.948188,
+        "longitude": -92.321437
+    },
+    {
+        "PRECINCT": "6C",
+        "POLLING PLACE": "UNITARIAN CHURCH OF COLUMBIA",
+        "POLL ADDRESS": "2615 SHEPARD BLVD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.93813,
+        "longitude": -92.297022
+    },
+    {
+        "PRECINCT": "6D",
+        "POLLING PLACE": "LENOIR COMMUNITY CENTER",
+        "POLL ADDRESS": "#1 HOURIGAN DR.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.906951,
+        "longitude": -92.290868
+    },
+    {
+        "PRECINCT": "6E",
+        "POLLING PLACE": "HAMPTON INN & SUITES",
+        "POLL ADDRESS": "1225 FELLOWS PLACE",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.934348,
+        "longitude": -92.3252
+    },
+    {
+        "PRECINCT": "6F",
+        "POLLING PLACE": "HAMPTON INN & SUITES",
+        "POLL ADDRESS": "1225 FELLOWS PLACE",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.934348,
+        "longitude": -92.3252
+    },
+    {
+        "PRECINCT": "6G",
+        "POLLING PLACE": "CHRISTIAN CHAPEL",
+        "POLL ADDRESS": "3300 S PROVIDENCE RD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.914852,
+        "longitude": -92.333198
+    },
+    {
+        "PRECINCT": "6H",
+        "POLLING PLACE": "UNITARIAN CHURCH OF COLUMBIA",
+        "POLL ADDRESS": "2615 SHEPARD BLVD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.93813,
+        "longitude": -92.297022
+    },
+    {
+        "PRECINCT": "6I",
+        "POLLING PLACE": "HAMPTON INN & SUITES",
+        "POLL ADDRESS": "1225 FELLOWS PLACE",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.934348,
+        "longitude": -92.3252
+    },
+    {
+        "PRECINCT": "6J",
+        "POLLING PLACE": "AMERICAN LEGION POST #202",
+        "POLL ADDRESS": "3669 LEGION LN.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.94302,
+        "longitude": -92.285497
+    },
+    {
+        "PRECINCT": "6K",
+        "POLLING PLACE": "LENOIR COMMUNITY CENTER",
+        "POLL ADDRESS": "#1 HOURIGAN DR.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.906951,
+        "longitude": -92.290868
+    },
+    {
+        "PRECINCT": "6L",
+        "POLLING PLACE": "HAMPTON INN & SUITES",
+        "POLL ADDRESS": "1225 FELLOWS PLACE",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.934348,
+        "longitude": -92.3252
+    },
+    {
+        "PRECINCT": "6M",
+        "POLLING PLACE": "HAMPTON INN & SUITES",
+        "POLL ADDRESS": "1225 FELLOWS PLACE",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.934348,
+        "longitude": -92.3252
+    },
+    {
+        "PRECINCT": "7",
+        "POLLING PLACE": "HARRISBURG LIONS CLUB",
+        "POLL ADDRESS": "120 E. SEXTON ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.959548,
+        "longitude": -92.335891
+    },
+    {
+        "PRECINCT": "8",
+        "POLLING PLACE": "STURGEON RECREATION CENTER",
+        "POLL ADDRESS": "403 W MCDOWELL ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "9",
+        "POLLING PLACE": "UNITED METHODIST CHURCH",
+        "POLL ADDRESS": "715 ORCHARD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "10",
+        "POLLING PLACE": "FIRST CHRISTIAN CHURCH",
+        "POLL ADDRESS": "229 S ROLLINS",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "11",
+        "POLLING PLACE": "UNITED METHODIST CHURCH",
+        "POLL ADDRESS": "715 ORCHARD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "12",
+        "POLLING PLACE": "FIRST CHRISTIAN CHURCH",
+        "POLL ADDRESS": "229 S ROLLINS",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "14",
+        "POLLING PLACE": "DRIPPING SPRINGS CHURCH",
+        "POLL ADDRESS": "2701 W DRIPPING SPRINGS RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 39.08697,
+        "longitude": -92.374141
+    },
+    {
+        "PRECINCT": "15",
+        "POLLING PLACE": "MISSOURI NATIONAL GUARD HDQTRS",
+        "POLL ADDRESS": "5151 N ROGER I WILSON DR",
+        "CITY": "Columbia, Missouri",
+        "latitude": 39.008249,
+        "longitude": -92.305155
+    },
+    {
+        "PRECINCT": "16",
+        "POLLING PLACE": "HALLSVILLE COMMUNITY CENTER",
+        "POLL ADDRESS": "324 E. HWY OO",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "17",
+        "POLLING PLACE": "LIBERTY BAPTIST CHURCH",
+        "POLL ADDRESS": "7461 N BROWN STATION RD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 39.035262,
+        "longitude": -92.266317
+    },
+    {
+        "PRECINCT": "18",
+        "POLLING PLACE": "MIDWAY HEIGHTS SCHOOL",
+        "POLL ADDRESS": "8130 W HWY 40",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "19",
+        "POLLING PLACE": "MIDWAY HEIGHTS SCHOOL",
+        "POLL ADDRESS": "8130 W HWY 40",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "20",
+        "POLLING PLACE": "BOONE COUNTY FIRE PROTECTION HDQTR",
+        "POLL ADDRESS": "2201 I-70 DR NW",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.97042,
+        "longitude": -92.372565
+    },
+    {
+        "PRECINCT": "21",
+        "POLLING PLACE": "COMMUNITY METHODIST CHURCH",
+        "POLL ADDRESS": "3301 W. BROADWAY",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.955901,
+        "longitude": -92.3859
+    },
+    {
+        "PRECINCT": "22",
+        "POLLING PLACE": "DERBY RIDGE SCHOOL",
+        "POLL ADDRESS": "4000 DERBY RIDGE DR",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.99191,
+        "longitude": -92.316668
+    },
+    {
+        "PRECINCT": "23",
+        "POLLING PLACE": "REDEEMER PRESBYTERIAN CHURCH",
+        "POLL ADDRESS": "101 GRACE LN",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951526,
+        "longitude": -92.257167
+    },
+    {
+        "PRECINCT": "24",
+        "POLLING PLACE": "HOLIDAY INN EAST",
+        "POLL ADDRESS": "915 PORT WAY",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.958126,
+        "longitude": -92.252549
+    },
+    {
+        "PRECINCT": "25",
+        "POLLING PLACE": "OLIVET CHRISTIAN CHURCH",
+        "POLL ADDRESS": "1991 S OLIVET RD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.927929,
+        "longitude": -92.22876
+    },
+    {
+        "PRECINCT": "26",
+        "POLLING PLACE": "ROCK BRIDGE ELEMENTARY SCHOOL",
+        "POLL ADDRESS": "5151 S HWY 163",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "27",
+        "POLLING PLACE": "BETHEL BAPTIST CHURCH",
+        "POLL ADDRESS": "201 E. OLD PLANK RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.891721,
+        "longitude": -92.344198
+    },
+    {
+        "PRECINCT": "28",
+        "POLLING PLACE": "LENOIR COMMUNITY CENTER",
+        "POLL ADDRESS": "#1 HOURIGAN DR.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.906951,
+        "longitude": -92.290868
+    },
+    {
+        "PRECINCT": "29",
+        "POLLING PLACE": "LENOIR COMMUNITY CENTER",
+        "POLL ADDRESS": "#1 HOURIGAN DR.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.906951,
+        "longitude": -92.290868
+    },
+    {
+        "PRECINCT": "30",
+        "POLLING PLACE": "ASHLAND BAPTIST CHURCH",
+        "POLL ADDRESS": "203 E BROADWAY, ASHLAND",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "31",
+        "POLLING PLACE": "ASHLAND OPTIMIST CLUB",
+        "POLL ADDRESS": "511 OPTIMIST DR. ASHLAND",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "32",
+        "POLLING PLACE": "ASHLAND OPTIMIST CLUB",
+        "POLL ADDRESS": "511 OPTIMIST DR. ASHLAND",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "33",
+        "POLLING PLACE": "OLIVET CHRISTIAN CHURCH",
+        "POLL ADDRESS": "1991 S OLIVET RD",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.927929,
+        "longitude": -92.22876
+    },
+    {
+        "PRECINCT": "34",
+        "POLLING PLACE": "AMERICAN LEGION POST #202",
+        "POLL ADDRESS": "3669 LEGION LN.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.94302,
+        "longitude": -92.285497
+    },
+    {
+        "PRECINCT": "35",
+        "POLLING PLACE": "FAMILY OF CHRIST LUTHERAN CHURCH",
+        "POLL ADDRESS": "408 S MAIN ST, ASHLAND",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "36",
+        "POLLING PLACE": "FORUM BLVD CHRISTIAN CHURCH",
+        "POLL ADDRESS": "3900 FORUM BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.909064,
+        "longitude": -92.352613
+    },
+    {
+        "PRECINCT": "37",
+        "POLLING PLACE": "FAIRVIEW RD COMM OF CHRIST",
+        "POLL ADDRESS": "1111 S. FAIRVIEW RD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.940951,
+        "longitude": -92.381976
+    },
+    {
+        "PRECINCT": "38",
+        "POLLING PLACE": "UMC EXTENSION OFFICE",
+        "POLL ADDRESS": "1012 N Hwy UU",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "39",
+        "POLLING PLACE": "RED TOP CHRISTIAN CHURCH",
+        "POLL ADDRESS": "14355 N RTE U",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "40",
+        "POLLING PLACE": "MISSOURI NATIONAL GUARD HDQTRS",
+        "POLL ADDRESS": "5151 N ROGER I WILSON DR",
+        "CITY": "Columbia, Missouri",
+        "latitude": 39.008249,
+        "longitude": -92.305155
+    },
+    {
+        "PRECINCT": "41",
+        "POLLING PLACE": "REDEEMER PRESBYTERIAN CHURCH",
+        "POLL ADDRESS": "101 GRACE LN",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951526,
+        "longitude": -92.257167
+    },
+    {
+        "PRECINCT": "42",
+        "POLLING PLACE": "FAMILY OF CHRIST LUTHERAN CHURCH",
+        "POLL ADDRESS": "408 S MAIN ST, ASHLAND",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "43",
+        "POLLING PLACE": "ASHLAND BAPTIST CHURCH",
+        "POLL ADDRESS": "203 E BROADWAY, ASHLAND",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.951705,
+        "longitude": -92.334072
+    },
+    {
+        "PRECINCT": "44",
+        "POLLING PLACE": "FORUM BLVD CHRISTIAN CHURCH",
+        "POLL ADDRESS": "3900 FORUM BLVD.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.909064,
+        "longitude": -92.352613
+    },
+    {
+        "PRECINCT": "45",
+        "POLLING PLACE": "MISSOURI NATIONAL GUARD HDQTRS",
+        "POLL ADDRESS": "5151 N ROGER I WILSON DR",
+        "CITY": "Columbia, Missouri",
+        "latitude": 39.008249,
+        "longitude": -92.305155
+    },
+    {
+        "PRECINCT": "CENTRAL 1",
+        "POLLING PLACE": "BOONE COUNTY GOVERNMENT CENTER",
+        "POLL ADDRESS": "801 E. WALNUT ST.",
+        "CITY": "Columbia, Missouri",
+        "latitude": 38.953322,
+        "longitude": -92.327882
+    }
+]
