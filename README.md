@@ -7,7 +7,7 @@ The data comes from the [Boone County Clerk's office](https://www.showmeboone.co
 1. Download the PDF.
 2. Convert the table to a PDF using [Tablula](http://tabula.technology/).
 3. Add "Columbia, Missouri" to each address via Excel.
-4. Use a batch geocode tool to convert each address to a lat/long. In class, we used [this one](http://www.findlatitudeandlongitude.com/batch-geocode/). Iaryna says there's a Google Docs method. I [found this](https://vilimpoc.org/blog/2013/07/11/google-spreadsheet-geocoding-macro/), but haven't tried it.
+4. Use a batch geocode tool to convert each address to a lat/long. In class, we used [this one](http://www.findlatitudeandlongitude.com/batch-geocode/). (Iaryna says there's a Google Docs method. I [found this](https://vilimpoc.org/blog/2013/07/11/google-spreadsheet-geocoding-macro/), but haven't tried it.)
 5. Convert the output via [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/).
 6. Cut and paste the output into a JSON file. You're done!
 
